@@ -3,7 +3,11 @@ Group 4 project!
 
 #Alia - electric data, though I did not complete my part of the project, for a variety of reasons, I'm shamed to say.
 #
-Something we wanted to look into was the effect that renewable energy consumption had on a states GDP to CO2 Emissions level
+
+Our project started by looking to see the correlation between GDP and CO2 emissions. There was an expected trend of increased emissions correlating to increased GDP per state. We then decided to look to see what drove the increase in emissions and if there were more efficient ways to generate GDP without additional CO2 emissions. We started by separating industries out to see which were dominant in states with a high GDP to CO2 coefficient. We found that states that had a higher portion of their total GDP made up by private services-providing industries had a relatively high GDP when compared to their emissions. This led us to the conclusion that private services are an efficient producer of GDP when looking to limit CO2 output. Next we wanted to see what industries created a lot of CO2 emissions with limited GDP production. We found that when a large part of your economy comes from private goods-producing industries and natural resource mining, your state CO2 emissions are more likely to be high relative to your GDP. To conclude the industries portion of our project we found that if states want to increase their GDP while keeping emissions low, private services-providing industries should be the bulk of their economic growth.
+
+
+Something else we wanted to look into was the effect that renewable energy consumption had on a states GDP to CO2 Emissions level
 
 There were a few things that came to mind when we were predicting the outcomes at the start of this project. When I think about renewable energy, I think about solar or wind power, which emit little to no greenhouse gasses, but in terms of an energy source such as fossil fuels, the CO2 emissions skyrocket in comparison. So just based on that alone, we hypothesized that there would be a positive correlation between renewable energy consumption and the GDP/CO2 emissions coefficient per state. 
 
