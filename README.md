@@ -1,4 +1,4 @@
-# Project-1
+# GDP to CO2 Emission
 Group 4 project!
 
 
